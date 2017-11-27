@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MM/00 Main BGB.png</file>
+        <file>MM/00 Main BG2R.png</file>
+        <file>MM/BCKBN.png</file>
+        <file>MM/01 Fixed Point.png</file>
+        <file>MM/02 Newson.png</file>
+        <file>MM/03 EGS.gif</file>
+        <file>MM/04 GauSei.gif</file>
+        <file>MM/05 Lagrange.jpg</file>
+        <file>MM/MainBCK.png</file>
+        <file>MM/MainBCKv2.png</file>
+        <file>MM/MainBCKBlue.png</file>
+        <file>MM/MainBCKBluev2.png</file>
+        <file>MM/BKGGreen.png</file>
+        <file>MM/BKGGrey.png</file>
+        <file>MM/BKGWhite.png</file>
+        <file>MM/BKGDarkGrey.png</file>
+        <file>MM/00 Main BG2RB.png</file>
+        <file>MM/06 RegLin.png</file>
+        <file>MM/07 RegMul.png</file>
+        <file>MM/08 DifNum.png</file>
+        <file>MM/09 IntNum.png</file>
+        <file>MM/09 IntNum2.gif</file>
+        <file>MM/10 Euler.png</file>
+        <file>MM/11 RungeKutta.png</file>
+        <file>MM/00 Main BG3.png</file>
+        <file>MM/00 Main BG4.png</file>
+        <file>MM/00 Main BG5.png</file>
+        <file>MM/00 Main BG6.png</file>
+        <file>MM/00 Main BG7.png</file>
+        <file>MM/nuevo.gif</file>
+        <file>MM/nuevo.png</file>
+        <file>MM/nuevo (1).gif</file>
+        <file>MM/nuevo-2-1.png</file>
+        <file>MM/nuevom.png</file>
+    </qresource>
+</RCC>
